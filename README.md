@@ -134,23 +134,23 @@ Database: SQL Server
 Visualization: Matplotlib
 
 Connector: pyodbc
-
-📂 Project Structure
-📁 Banggood-Product-Pipeline
-│
-├── scraping/
-│   └── banggood_scraper.py
-├── cleaning/
-│   └── data_cleaning.py
-├── analysis/
-│   ├── python_eda.ipynb
-│   └── sql_queries.sql
-├── database/
-│   └── schema.sql
-├── report/
-│   └── Final_Report.pdf
-└── README.md
-
+          
+          📂 Project Structure
+          📁 Banggood-Product-Pipeline
+          │
+          ├── scraping/
+          │   └── banggood_scraper.py
+          ├── cleaning/
+          │   └── data_cleaning.py
+          ├── analysis/
+          │   ├── python_eda.ipynb
+          │   └── sql_queries.sql
+          ├── database/
+          │   └── schema.sql
+          ├── report/
+          │   └── Final_Report.pdf
+          └── README.md
+            
 ✔️ How to Run
 
 Install requirements
